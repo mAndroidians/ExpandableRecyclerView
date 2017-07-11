@@ -1,0 +1,7 @@
+#Mon Jul 10 18:18:08 IST 2017
+base.0=C\:\\Mangal\\awsmcoder_workspace\\Expandable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c1efbcb89d4168fdc8bfa99ef2c02f679be6e977
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Mangal\\awsmcoder_workspace\\Expandable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3288740ca7d78dde9037f61b4edd6d48dd1f8be5\\classes.dex
+base.1=C\:\\Mangal\\awsmcoder_workspace\\Expandable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3288740ca7d78dde9037f61b4edd6d48dd1f8be5
+file.0=C\:\\Mangal\\awsmcoder_workspace\\Expandable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c1efbcb89d4168fdc8bfa99ef2c02f679be6e977\\classes.dex
